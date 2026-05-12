@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Game Networking.sln"
+    "dotnet.defaultSolution": "Game Networking.slnx"
 }
